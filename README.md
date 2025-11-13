@@ -1,8 +1,4 @@
-Theek hai. Seedha **pure-ka-pure final README, sirf Markdown**, bina explanation, bina extra line.
-**Full copy-paste ready.**
-Yeh lo ↓
 
----
 
 # Image Collection Platform – Humanness (Prototype)
 
